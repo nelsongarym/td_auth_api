@@ -10,7 +10,7 @@ This is meant to be an easy way to get going with the td ameritrade apis without
 - go to root of folder
 - run npm install
 - run npm start
-- enter data into prompts and then it will start and launch chrome
+- Launch chrome and go to https://localhost:81/
 
 ## Generating self signed cert to secure API in dev env
 - Need openssl tool
