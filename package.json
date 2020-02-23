@@ -1,0 +1,25 @@
+{
+  "name": "td_auth_api",
+  "version": "1.0.0",
+  "description": "API to handle td ameritrade api token negotiation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsongarym/td_auth_api.git"
+  },
+  "author": "Gary Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsongarym/td_auth_api/issues"
+  },
+  "homepage": "https://github.com/nelsongarym/td_auth_api#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "node-cache": "^5.1.0",
+    "query-string": "^6.11.0"
+  }
+}
